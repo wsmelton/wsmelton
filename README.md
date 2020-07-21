@@ -2,6 +2,8 @@
 
 ### I work on the Professional Services Team @ [Thycotic](https://thycotic.com/products/professional-services-training/)
 
+### I'm a third year Microsoft MVP (PowerShell)
+
 ### What am I up to?
 
 - 🔭 I’m current working on a PowerShell module for [Thycotic Secret Server](https://thycotic.com/products/secret-server/)
