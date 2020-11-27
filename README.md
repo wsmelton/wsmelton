@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning about Kubernetes, bit more on GCP, and improving on my PowerShell code skills.
 
-- 📫 How to reach me: :bird: [@wsmelton](https://twitter.com/wsmelton)
-
 - ⚡ Fun fact
   - I am a fraternal twin
   - New found love for kayak 🐟
