@@ -37,6 +37,12 @@ I also like to:
 
 > Thanks to Mike James his [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 
+## My Prompt
+
+Checkout my [prompt](https://github.com/wsmelton/prompt]
+
+![image](https://user-images.githubusercontent.com/11204251/155899012-83437255-856d-463f-9cdf-7b10e04372ab.png)
+
 <!--
 **wsmelton/wsmelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
