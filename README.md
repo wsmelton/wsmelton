@@ -6,7 +6,6 @@ My name is Shawn Melton. I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/m
 
 Feel free to contact me through any one of these social media:
 
-[![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/wsmelton)
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/wshawnmelton/)
 
 Or head over to my [blog](https://wsmelton.github.io) and subscribe to the RSS feed:
