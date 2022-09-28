@@ -6,6 +6,8 @@ My name is Shawn Melton. I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/m
 
 Feel free to contact me through any one of these social media:
 
+[![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/meltonsik)
+
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/wshawnmelton/)
 
 Or head over to my [blog](https://wsmelton.github.io) and subscribe to the RSS feed:
@@ -13,6 +15,7 @@ Or head over to my [blog](https://wsmelton.github.io) and subscribe to the RSS f
 [![RSS Feed](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/rss.svg)](https://wsmelton.github.io/feed.xml)
 
 ## My world
+
 I mostly work with:
 
 [![Azure](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://www.azure.com)
@@ -38,7 +41,7 @@ I also like to:
 
 ## My Prompt
 
-Checkout my [prompt](https://github.com/wsmelton/prompt]
+Checkout my [prompt](https://github.com/wsmelton/prompt)
 
 ![image](https://user-images.githubusercontent.com/11204251/155899012-83437255-856d-463f-9cdf-7b10e04372ab.png)
 
