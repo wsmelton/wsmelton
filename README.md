@@ -6,8 +6,6 @@ My name is Shawn Melton. I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/m
 
 Feel free to contact me through any one of these social media:
 
-[![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/meltonsik)
-
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/wshawnmelton/)
 
 Or head over to my [blog](https://wsmelton.github.io) and subscribe to the RSS feed:
@@ -22,28 +20,31 @@ I mostly work with:
 
 Using:
 
-[![Visual Studio Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)](https://code.visualstudio.com/)
-[![PowerShell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg)](https://aka.ms/powershell)
+[![Visual Studio Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)](https://code.visualstudio.com/docs?WT.mc_id=CDM-MVP-5002856)
+[![PowerShell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg)](https://learn.microsoft.com/en-us/powershell/?WT.mc_id=CDM-MVP-5002856)
+[![C#](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)]([https://dotnet.microsoft.com/en-us/languages/csharp?WT.mc_id=CDM-MVP-5002856]
+[![Bicep](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep&WT.mc_id=CDM-MVP-5002856)
 
 ## I'm learning
 Things about:
 
 [![Kubernetes](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg)](https://www.kubernetes.org/)
-[![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg)](httos://www.docker.com/)
+[![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg)](https://www.docker.com/)
+[![Azure Automation](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBagdes/master/svg/dev/services/azure.svg](https://learn.microsoft.com/en-us/azure/automation/overview?WT.mc_id=CDM-MVP-5002856)
 
 ## What I do for fun
 
 I also like to:
 
-[![PowerShell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg)](https://aka.ms/powershell)
+[![PowerShell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg)](https://learn.microsoft.com/en-us/powershell/?WT.mc_id=CDM-MVP-5002856)
 
-> Thanks to Mike James his [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
+> Thanks to Mike James with his [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 
 ## My Prompt
 
 Checkout my [prompt](https://github.com/wsmelton/prompt)
 
-![image](https://user-images.githubusercontent.com/11204251/155899012-83437255-856d-463f-9cdf-7b10e04372ab.png)
+![image](https://user-images.githubusercontent.com/11204251/208261864-50d3349c-279c-47b3-aa29-a4f5362eb544.png)
 
 <!--
 **wsmelton/wsmelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
