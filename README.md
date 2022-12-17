@@ -30,7 +30,7 @@ Things about:
 
 [![Kubernetes](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg)](https://www.kubernetes.org/)
 [![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg)](https://www.docker.com/)
-[![Azure Automation](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBagdes/master/svg/dev/services/azure.svg](https://learn.microsoft.com/en-us/azure/automation/overview?WT.mc_id=CDM-MVP-5002856)
+[![Azure Automation](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBagdes/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/automation/overview?WT.mc_id=CDM-MVP-5002856)
 
 ## What I do for fun
 
