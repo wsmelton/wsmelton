@@ -22,7 +22,7 @@ Using:
 
 [![Visual Studio Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)](https://code.visualstudio.com/docs?WT.mc_id=CDM-MVP-5002856)
 [![PowerShell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg)](https://learn.microsoft.com/en-us/powershell/?WT.mc_id=CDM-MVP-5002856)
-[![C#](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)]([https://dotnet.microsoft.com/en-us/languages/csharp?WT.mc_id=CDM-MVP-5002856]
+[![C-Sharp](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)]([https://dotnet.microsoft.com/en-us/languages/csharp?WT.mc_id=CDM-MVP-5002856)
 [![Bicep](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep&WT.mc_id=CDM-MVP-5002856)
 
 ## I'm learning
