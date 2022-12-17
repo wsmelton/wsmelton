@@ -1,6 +1,6 @@
 # Shawn
 
-My name is Shawn Melton. I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Shawn%20Melton-5002856) and Cloud Solutions Engineer @ [LoanDepot](https://www.linkedin.com/company/loandepot/).
+My name is Shawn Melton. I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Shawn%20Melton-5002856) and Senior DevOps Engineer @ [LoanDepot](https://www.linkedin.com/company/loandepot/).
 
 ## How to reach me
 
@@ -26,11 +26,12 @@ Using:
 [![Bicep](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep&WT.mc_id=CDM-MVP-5002856)
 
 ## I'm learning
+
 Things about:
 
 [![Kubernetes](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg)](https://www.kubernetes.org/)
 [![Docker](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg)](https://www.docker.com/)
-[![Azure Automation](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBagdes/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/automation/overview?WT.mc_id=CDM-MVP-5002856)
+[![Azure](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg)](https://learn.microsoft.com/en-us/azure/automation/overview?WT.mc_id=CDM-MVP-5002856)
 
 ## What I do for fun
 
