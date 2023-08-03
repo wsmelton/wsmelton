@@ -1,6 +1,6 @@
 # Shawn
 
-My name is Shawn Melton. I'm a previous [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/Shawn%20Melton-5002856) and Senior DevOps Engineer @ [LoanDepot](https://www.linkedin.com/company/loandepot/).
+My name is Shawn Melton. I am currently a Senior DevOps Engineer @ [LoanDepot](https://www.linkedin.com/company/loandepot/).
 
 ## How to reach me
 
