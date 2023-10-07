@@ -2,9 +2,9 @@
 
 My name is Shawn Melton. I am currently a Senior DevOps Engineer @ [LoanDepot](https://www.linkedin.com/company/loandepot/).
 
-## How to reach me
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/wsmelton) if you enjoy any of the projects that I contribute to please consider clicking that button 😉 🥺
 
-Feel free to contact me through any one of these social media:
+## How to reach me
 
 [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/wshawnmelton/)
 
