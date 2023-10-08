@@ -6,14 +6,6 @@ My name is Shawn Melton. I am currently a Senior DevOps Engineer @ [LoanDepot](h
 
 > If you enjoy or find any of the projects that I contribute to helpful please consider clicking that button 😉 🥺
 
-## How to reach me
-
-[![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/wshawnmelton/)
-
-Or head over to my [blog](https://wsmelton.github.io) and subscribe to the RSS feed:
-
-[![RSS Feed](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/rss.svg)](https://wsmelton.github.io/feed.xml)
-
 ## My world
 
 I mostly work with:
